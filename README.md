@@ -33,4 +33,3 @@ Fã de video games antigos, amante da música e dos livros e jogadora amadora de
   </div> 
 <img height="190em" align="right" alt="Yoshi" src="https://cdn.lowgif.com/full/bdf38f121243e897-.gif">
 
-![Snake animation](https://github.com/Priscila-Scapin/Priscila-Scapin/blob/output/github-contribution-grid-snake.svg)
