@@ -10,8 +10,8 @@ Fã de video games antigos, amante da música e dos livros e jogadora amadora de
 
 <div>
   <a href="https://github.com/Priscila-Scapin">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Priscila-Scapin&show_icons=true&title_color=E86425&icon_color=E86425&bg_color=b9d980&include_all_commits=true&count_private=true"/>
-  <img height="170em" lenght="50" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priscila-Scapin&layout=compact&langs_count=7&title_color=E86425&icon_color=E86425&bg_color=b9d980"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Priscila-Scapin&show_icons=true&title_color=E86425&icon_color=E86425&bg_color=b9d980&include_all_commits=true&count_private=true"/>
+  <img height="150em" lenght="50" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priscila-Scapin&layout=compact&langs_count=7&title_color=E86425&icon_color=E86425&bg_color=b9d980"/>
    </a>
 </div>
 <h1></h1>
