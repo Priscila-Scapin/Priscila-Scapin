@@ -26,7 +26,7 @@ Fã de video games antigos, amante da música e dos livros e jogadora amadora de
   <img align="center" alt="Prih-Js" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   </div>
   <h1></h1>
-:telephone:Contatos:
+:telephone:Contato:
 <div style="display: inline_block"><br>
 <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511993444383"><img align="center" alt="Prih-Js" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/priscila-scapin/"><img align="center" alt="Prih-Js" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
