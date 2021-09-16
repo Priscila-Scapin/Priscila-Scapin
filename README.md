@@ -6,7 +6,6 @@ Fã de video games antigos, amante da música e dos livros e jogadora amadora de
 
 :star: Atualmente estudando: MongoDB, C++ e Unity;
 
-:star: Pronoums: ela/dela;
 
 <div>
   <a href="https://github.com/Priscila-Scapin">
@@ -16,7 +15,7 @@ Fã de video games antigos, amante da música e dos livros e jogadora amadora de
 </div>
 <h1></h1>
 <div>
- :bulb: Main languages, libs and frameworks:
+ :bulb: Linguagens, libs e frameworks:
 <div style="display: inline_block"><br>
   <img align="center" alt="Prih-Js" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Prih-Js" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
