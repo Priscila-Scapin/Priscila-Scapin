@@ -10,7 +10,7 @@ Full Stack Developer with over three years of experience in designing, developin
 </div>
 <h1></h1>
 <div>
- :bulb: Linguagens, libs e frameworks:
+ :bulb: Languages, libraries, and frameworks:
 <div style="display: inline_block"><br>
   <img align="center" alt="Prih-Js" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Prih-Js" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -20,7 +20,7 @@ Full Stack Developer with over three years of experience in designing, developin
   <img align="center" alt="Prih-Js" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   </div>
   <h1></h1>
-:telephone:Contato:
+:Contact me:
 <div style="display: inline_block"><br>
 <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511993444383"><img align="center" alt="Prih-Js" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/priscila-scapin/"><img align="center" alt="Prih-Js" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
