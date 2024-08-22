@@ -1,11 +1,6 @@
-### Olá! Eu sou a Prih Scapin. :four_leaf_clover:
+### Priscila Scapin
 
-Apaixonada por desafios e pela tecnologia, decidi mudar os rumos da minha carreira que se iniciou na área da educação e mergulhar na área do desenvolvimento web.
-
-Fã de video games antigos, amante da música e dos livros e jogadora amadora de Magic the Gathering :deciduous_tree::skull:. 
-
-:star: Atualmente estudando: MongoDB, C++ e Unity;
-
+Full Stack Developer with over three years of experience in designing, developing, and implementing web applications and front-end solutions using modern technologies such as JavaScript, TypeScript, Node.js, React, and Next.js. Specialist in performance optimization and user experience, with a proven track record of delivering scalable and high-quality code. Currently focused on front-end opportunities, bringing strong skills to agile teams and high-demand projects.  :four_leaf_clover:
 
 <div>
   <a href="https://github.com/Priscila-Scapin">
