@@ -1,6 +1,6 @@
 ### Priscila Scapin
 
-Full Stack Developer with over three years of experience in designing, developing, and implementing web applications and front-end solutions using modern technologies such as JavaScript, TypeScript, Node.js, React, and Next.js. Specialist in performance optimization and user experience, with a proven track record of delivering scalable and high-quality code. Currently focused on front-end opportunities, bringing strong skills to agile teams and high-demand projects.  :four_leaf_clover:
+Full Stack Developer with over three years of experience in designing, developing, and implementing web applications and front-end solutions using modern technologies such as JavaScript, TypeScript, Node.js, React, and Next.js. Specialist in performance optimization and user experience, with a proven track record of delivering scalable and high-quality code. :four_leaf_clover:
 
 <div>
   <a href="https://github.com/Priscila-Scapin">
