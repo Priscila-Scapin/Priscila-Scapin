@@ -5,9 +5,9 @@ Full Stack Developer with over four years of experience in designing, developing
 Pixel perfectionist, I dedicate myself to studies in UX/UI, focusing on user-centered development.  
 My background in education and music, to which I devoted over 15 years, has contributed to the development of emotional intelligence, relationship-building, teamwork, conflict mediation, and adaptability. 🍀  
 
----
 
-## :bulb: Main Languages, Libraries, and Frameworks  
+
+
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -20,7 +20,8 @@ My background in education and music, to which I devoted over 15 years, has cont
   <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </div>
 
----
+
+
 
 ## 📞 Contact Me  
 
