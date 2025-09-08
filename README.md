@@ -4,6 +4,9 @@ Full Stack Developer with over four years of experience in designing, developing
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priscila-Scapin&layout=compact&theme=radical)
+![Priscila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priscila-Scapin&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Priscila-Scapin&theme=radical)](https://git.io/streak-stats)
+
 <div>
 </div>
 <h1></h1>
