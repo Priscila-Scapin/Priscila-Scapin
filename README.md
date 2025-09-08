@@ -5,10 +5,6 @@ Full Stack Developer with over four years of experience in designing, developing
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priscila-Scapin&layout=compact&theme=radical)
 <div>
-  <a href="https://github.com/Priscila-Scapin">
-
-  <img height="140em" lenght="50" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priscila-Scapin&layout=compact&langs_count=7&title_color=E86425&icon_color=E86425&bg_color=b9d980"/>
-   </a>
 </div>
 <h1></h1>
 <div>
