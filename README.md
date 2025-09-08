@@ -1,23 +1,25 @@
 ### Priscila Scapin
 
-Full Stack Developer with over four years of experience in designing, developing, and implementing web applications and front-end solutions using modern technologies such as JavaScript, TypeScript, Node.js, React, and Next.js. Specialist in performance optimization and user experience, with a proven track record of delivering scalable and high-quality code. :four_leaf_clover:
+Full Stack Developer with over four years of experience in designing, developing, and implementing web applications and front-end solutions using modern technologies such as JavaScript, TypeScript, Node.js, React, and Next.js. Pixel perfectionist, I dedicate myself to studies in UX/UI, focusing on user-centered development.
+My background in education and music, to which I devoted over 15 years, has contributed to the development of emotional intelligence, relationship-building, teamwork, conflict mediation, and adaptability.. :four_leaf_clover:
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priscila-Scapin&layout=compact&theme=radical)
-![Priscila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priscila-Scapin&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Priscila-Scapin&theme=radical)](https://git.io/streak-stats)
 
 <div>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priscila-Scapin&layout=compact&theme=radical)
 </div>
 <h1></h1>
 <div>
- :bulb: Languages, libraries, and frameworks:
+ ### :bulb: Main Languages, Libraries, and Frameworks  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Prih-Js" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Prih-Js" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Prih-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="Prih-Js" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-  <img align="center" alt="Prih-Js" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   </div>
   <h1></h1>
 📞 Contact me:
