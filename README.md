@@ -26,8 +26,6 @@ Full Stack Developer with over four years of experience in designing, developing
 
 
 <div style="display: flex; margin-top: 40px; justify-content: space-between; align: flex-end; align-items: end; gap: 20px; margin: 30px 0;">
-  
-
   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511993444383" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="40"/>
   </a>
@@ -37,7 +35,6 @@ Full Stack Developer with over four years of experience in designing, developing
   <a href="mailto:prihscapin@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
   </a>
-
 
   <img 
     src="https://camo.githubusercontent.com/e1784ce9f67450bbb344206d1e05579cf4c835b6e84add8e63d1c19b072e7aab/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313236302f312a2d744f6c644562666a696a786e3956715a65554c71672e676966" 
