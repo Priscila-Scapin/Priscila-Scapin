@@ -23,7 +23,7 @@ Full Stack Developer with over four years of experience in designing, developing
 <br><br>
 
 
-<div style="display: flex; justify-content: space-between; align: flex-end; align-items: center; gap: 20px; margin: 30px 0;">
+<div style="display: flex; margin-top: 40px; justify-content: space-between; align: flex-end; align-items: center; gap: 20px; margin: 30px 0;">
   
 <div style="display: flex; justify-content: flex-end; align: flex-end; align-self: end; gap: 15px; height: 100px;">
   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511993444383" target="_blank" rel="noopener noreferrer">
