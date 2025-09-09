@@ -25,17 +25,17 @@ Full Stack Developer with over four years of experience in designing, developing
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; margin: 30px 0;">
   
-  <div style="display: flex; gap: 15px; align-items: center;">
-    <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511993444383" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" height="40" style="color:#25D366; fill:#25D366;"/>
-    </a>
-    <a href="https://www.linkedin.com/in/priscila-scapin/" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="40" style="color:#0077B5; fill:#0077B5;"/>
-    </a>
-    <a href="mailto:prihscapin@gmail.com">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="40" style="color:#D14836; fill:#D14836;"/>
-    </a>
-  </div>
+ <div style="display: flex; justify-content: flex-end; align-items: flex-end; gap: 15px; height: 100px;">
+  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511993444383" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/priscila-scapin/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_icon.svg" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="mailto:prihscapin@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Email" height="40"/>
+  </a>
+</div>
 
   <img 
     src="https://camo.githubusercontent.com/e1784ce9f67450bbb344206d1e05579cf4c835b6e84add8e63d1c19b072e7aab/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313236302f312a2d744f6c644562666a696a786e3956715a65554c71672e676966" 
