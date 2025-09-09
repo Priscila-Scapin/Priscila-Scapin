@@ -25,14 +25,14 @@ Full Stack Developer with over four years of experience in designing, developing
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; margin: 30px 0;">
   <div style="display: flex; gap: 15px; align-items: center;">
-    <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511993444383" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" height="40" style="fill:#25D366"/>
+    <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511993444383" target="_blank" rel="noopener noreferrer" style="color:#25D366; text-decoration:none; font-weight:bold;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" height="30" style="vertical-align:middle;"/> WhatsApp
     </a>
-    <a href="https://www.linkedin.com/in/priscila-scapin/" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="40" style="fill:#0077B5"/>
+    <a href="https://www.linkedin.com/in/priscila-scapin/" target="_blank" rel="noopener noreferrer" style="color:#0077B5; text-decoration:none; font-weight:bold;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="30" style="vertical-align:middle;"/> LinkedIn
     </a>
-    <a href="mailto:prihscapin@gmail.com">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="40" style="fill:#D14836"/>
+    <a href="mailto:prihscapin@gmail.com" style="color:#D14836; text-decoration:none; font-weight:bold;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="30" style="vertical-align:middle;"/> Email
     </a>
   </div>
   <img 
@@ -42,6 +42,7 @@ Full Stack Developer with over four years of experience in designing, developing
     style="border-radius: 12px;"
   />
 </div>
+
 
 
 
