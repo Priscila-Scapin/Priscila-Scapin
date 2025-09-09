@@ -1,8 +1,6 @@
 # Hi there! I'm Priscila Scapin 👋
 
-Full Stack Developer with over four years of experience in designing, developing, and implementing web applications and front-end solutions using modern technologies such as JavaScript, TypeScript, Node.js, React, and Next.js.  
-
-Pixel perfectionist and UX/UI enthusiast, focusing on user-centered development. My background in education and music, to which I devoted over 15 years, has contributed to the development of emotional intelligence, relationship-building, teamwork, conflict mediation, and adaptability. 🍀  
+Full Stack Developer with over four years of experience in designing, developing, and implementing web applications and front-end solutions using modern technologies such as JavaScript, TypeScript, Node.js, React, and Next.js. Pixel perfectionist and UX/UI enthusiast, focusing on user-centered development. 🍀 
 
 <br><br>
 
