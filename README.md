@@ -23,9 +23,9 @@ Full Stack Developer with over four years of experience in designing, developing
 <br><br>
 
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; margin: 30px 0;">
+<div style="display: flex; justify-content: space-between; align: flex-end; align-items: center; gap: 20px; margin: 30px 0;">
   
-<div style="display: flex; justify-content: flex-end; align-items: flex-end; align-self: end; gap: 15px; height: 100px;">
+<div style="display: flex; justify-content: flex-end; align: flex-end; align-self: end; gap: 15px; height: 100px;">
   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511993444383" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="40"/>
   </a>
