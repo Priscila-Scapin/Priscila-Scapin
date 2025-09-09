@@ -1,4 +1,4 @@
-# Priscila Scapin  
+# Hi there! I'm Priscila Scapin 👋
 
 Full Stack Developer with over four years of experience in designing, developing, and implementing web applications and front-end solutions using modern technologies such as JavaScript, TypeScript, Node.js, React, and Next.js.  
 
