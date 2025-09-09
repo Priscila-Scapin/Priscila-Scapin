@@ -22,20 +22,27 @@ Full Stack Developer with over four years of experience in designing, developing
 
 <br><br>
 
-📞 Contact Me  
 
-<div style="display: flex; gap: 20px; margin: 30px 0;">
-  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511993444383">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/priscila-scapin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:prihscapin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; margin: 30px 0;">
+  <div style="display: flex; gap: 15px; align-items: center;">
+    <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511993444383" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" height="40" style="fill:#25D366"/>
+    </a>
+    <a href="https://www.linkedin.com/in/priscila-scapin/" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="40" style="fill:#0077B5"/>
+    </a>
+    <a href="mailto:prihscapin@gmail.com">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="40" style="fill:#D14836"/>
+    </a>
+  </div>
+  <img 
+    src="https://camo.githubusercontent.com/e1784ce9f67450bbb344206d1e05579cf4c835b6e84add8e63d1c19b072e7aab/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313236302f312a2d744f6c644562666a696a786e3956715a65554c71672e676966" 
+    alt="JS" 
+    height="150" 
+    style="border-radius: 12px;"
+  />
 </div>
 
-<img height="150em" align="right" alt="Yoshi" src="https://camo.githubusercontent.com/e1784ce9f67450bbb344206d1e05579cf4c835b6e84add8e63d1c19b072e7aab/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313236302f312a2d744f6c644562666a696a786e3956715a65554c71672e676966">
+
 
 <br><br><br>
