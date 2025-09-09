@@ -22,7 +22,7 @@ Full Stack Developer with over four years of experience in designing, developing
 
 <br><br>
 
-## 📞 Contact Me  
+📞 Contact Me  
 
 <div style="display: flex; gap: 20px; margin: 30px 0;">
   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511993444383">
