@@ -20,6 +20,7 @@ My background in education and music, to which I devoted over 15 years, has cont
   <img src="https://img.shields.io/badge/-Zustand-602c3c?style=for-the-badge&logo=zustand&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 </div>
 
 <br><br>
