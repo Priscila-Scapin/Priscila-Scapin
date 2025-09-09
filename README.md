@@ -25,15 +25,15 @@ Full Stack Developer with over four years of experience in designing, developing
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; margin: 30px 0;">
   
- <div style="display: flex; justify-content: flex-end; align-items: flex-end; gap: 15px; height: 100px;">
+<div style="display: flex; justify-content: flex-end; align-items: flex-end; align-self: end; gap: 15px; height: 100px;">
   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5511993444383" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="40"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/priscila-scapin/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_icon.svg" alt="LinkedIn" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
   <a href="mailto:prihscapin@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Email" height="40"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
   </a>
 </div>
 
